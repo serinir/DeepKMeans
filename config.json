@@ -1,0 +1,14 @@
+{
+    "model": {
+        "hidden_size":64,
+        "num_layers":2
+    },
+    "training":{
+        "epochs":1,
+        "batch_size":47,
+        "learning_rate":1e-3,
+        "weight_decay":1e-5,
+        "alpha":0.1,
+        "num_clusters":20
+    }
+}
